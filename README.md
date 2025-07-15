@@ -1,6 +1,6 @@
 # AWS Services Notes by Peace
 
-😇 Welcome to my personal, human-friendly documentation of AWS services.
+😇 Welcome to my easy to read notes on AWS services.
 ✍️ I'm writing, drawing and explaining AWS in simple, practical language - to prepare for certifications, remember better, and help others.
 🎈 My goal is to create notes anyone (including me) can read quickly and understand.
 
